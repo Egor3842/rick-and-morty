@@ -1,0 +1,15 @@
+.container {
+  .close {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+  }
+  .header {
+    img {
+      object-fit: contain;
+    }
+  }
+  .content {
+    padding: 5px;
+  }
+}
